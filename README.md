@@ -10,5 +10,5 @@ steps of runnig it:---
 5.now type 
 6. python -m pip install pynput
 7. press enter
-8. python keylogger.py
+8. python keylogger.py 
 
